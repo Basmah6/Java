@@ -1,0 +1,8 @@
+{
+  "name": "Remix Java Learning Platform",
+  "description": "A clean, responsive offline Java learning framework with modular topic navigation, lesson views, quiz system, and localStorage progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
